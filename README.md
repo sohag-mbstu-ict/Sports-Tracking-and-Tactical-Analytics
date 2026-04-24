@@ -5,29 +5,29 @@ This project combines object detection, tracking, and geometric transformation t
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎯 **Football Field Keypoint Detection**
+-  **Football Field Keypoint Detection**
   - Detects field landmarks using YOLO-based model
 
-- 🧭 **2D Pitch Transformation**
+-  **2D Pitch Transformation**
   - Applies homography to map players onto a top-down pitch view
 
-- 🧍 **Player, Referee & Goalkeeper Detection**
+-  **Player, Referee & Goalkeeper Detection**
   - Multi-class detection using YOLO models
 
-- 🔄 **Multi-Object Tracking**
+-  **Multi-Object Tracking**
   - Uses **ByteTrack** for consistent player tracking across frames
 
-- 🎯 **Motion Smoothing**
+-  **Motion Smoothing**
   - Applies **Kalman Filter** to reduce tracking noise and improve stability
 
-- 🎨 **Team Classification**
+-  **Team Classification**
   - Clusters players into teams (e.g., red & green) using **K-Means**
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -38,7 +38,7 @@ This project combines object detection, tracking, and geometric transformation t
 
 ---
 
-## 📊 Pipeline Overview
+##  Pipeline Overview
 
 1. Detect field keypoints  
 2. Apply homography transformation  
@@ -49,4 +49,3 @@ This project combines object detection, tracking, and geometric transformation t
 
 ---
 
-## 📁 Project Structure
