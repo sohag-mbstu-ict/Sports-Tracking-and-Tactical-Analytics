@@ -7,7 +7,7 @@ This project combines object detection, tracking, and geometric transformation t
 
 ## 🎥 Demo
 
-https://github.com/sohag-mbstu-ict/Sports-Tracking-and-Tactical-Analytics/blob/main/output/output.mp4
+https://raw.githubusercontent.com/sohag-mbstu-ict/Sports-Tracking-and-Tactical-Analytics/main/output/output.mp4
 
 ## Features
 
