@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 *.egg-info/
+*.mp4
 .installed.cfg
 *.egg
 MANIFEST
